@@ -2,7 +2,7 @@
   <div>item</div>
   <div>{{ store.state.home.count }}</div>
   <div>
-    <div>222</div>
+    <div v-expend-click="'1,2,3'">222</div>
   </div>
 </template>
 
